@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "hoth",
+    "temperature": -78
+  },
+  {
+    "id": 2,
+    "name": "tatooine",
+    "temperature": 108
+  },
+  {
+    "id": 3,
+    "name": "naboo",
+    "temperature": 52
+  }
+]
